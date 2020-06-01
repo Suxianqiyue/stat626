@@ -1,5 +1,4 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+# Add extensions of files you want to ignore from committing
+# For e.g uncomment below lines to ignore jpg and png files
+# *.jpg
+# *.png
