@@ -1,5 +1,5 @@
 # stat626
 Project
-testing from Lishan.
+testing 
 testing from Wei
 testing from Sijia
