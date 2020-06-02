@@ -18,4 +18,6 @@ Due before the first presentation(June 08).
 
 ##Sahil, Wayne, Sijia  
 
-[4] Data Visualization. Provide plots for Data Introduction.
+[4] Data Visualization. Provide plots for Data Introduction.  
+
+Due before the first presentation(June 08).
